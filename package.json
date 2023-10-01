@@ -1,0 +1,7 @@
+{
+  "name": "renovate-regex-no-docker-digest",
+  "version": "0.0.0",
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
